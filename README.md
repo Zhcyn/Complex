@@ -6,3 +6,5 @@ Putting Complex-Thought around, you can easily write down a note for later viewi
 Complex-Thought can also help you keep track of your inspiration every day, and record your inspiration anytime, anywhere to make you more efficient.
 
 Complex-Thought can also record your bad thoughts. We have the function of expiring to delete ideas. We only need to uninstall your bad ideas into Complex-Thought, let bad ideas be deleted over time, and every day is new.
+
+If you encounter any problems during use, please contact   oolcYoung@web.de
